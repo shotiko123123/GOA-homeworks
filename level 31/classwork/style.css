@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(58, 2, 2);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+p {
+    color: rgb(3, 3, 122);
+    font-size: 15px;
+    text-align: center;
+}
+
+footer {
+    background-color: #000000;
+    color: white;
+    font-size: 14px;
+
+}
